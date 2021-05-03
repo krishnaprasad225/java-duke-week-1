@@ -2,8 +2,8 @@
 /**
  * Write a description of CaesarCipher here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author krishna 
+ * @version 3/5/21
  */
 
 import edu.duke.*;
